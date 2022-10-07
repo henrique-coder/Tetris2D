@@ -1,7 +1,1 @@
-# Tetris criado em HTML
-
-    ➜ ( / ) = Modificado
-  
-    ➜ ( + ) = Adicionado
-    
-    ➜ ( - ) = Removido
+# Tetris 2D criado em HTML
